@@ -111,3 +111,4 @@ C:\Users\kurtu\Desktop\DOTNET\project\Core\obj\Debug\net8.0\refint\Core.dll
 C:\Users\kurtu\Desktop\DOTNET\project\Core\obj\Debug\net8.0\Core.pdb
 C:\Users\kurtu\Desktop\DOTNET\project\Core\obj\Debug\net8.0\Core.genruntimeconfig.cache
 C:\Users\kurtu\Desktop\DOTNET\project\Core\obj\Debug\net8.0\ref\Core.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\Core\obj\Debug\net8.0\Core.sourcelink.json

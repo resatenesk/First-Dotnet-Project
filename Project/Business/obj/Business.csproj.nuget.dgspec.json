@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Business\\Business.csproj": {}
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\Business.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Business\\Business.csproj": {
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Business\\Business.csproj",
+        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\Business.csproj",
         "projectName": "Business",
-        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Business\\Business.csproj",
+        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\Business.csproj",
         "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\obj\\",
         "projectStyle": "PackageReference",
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\DataAccess\\DataAccess.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\DataAccess.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\DataAccess.csproj"
               },
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -60,6 +60,14 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.5, )"
@@ -105,12 +113,12 @@
         }
       }
     },
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -151,6 +159,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.5, )"
@@ -196,12 +224,12 @@
         }
       }
     },
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
@@ -224,11 +252,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj"
               },
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj"
               }
             }
           }
@@ -294,12 +322,12 @@
         }
       }
     },
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj": {
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Entities\\obj\\",
         "projectStyle": "PackageReference",
@@ -322,8 +350,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {
-                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj"
+              "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {
+                "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj"
               }
             }
           }

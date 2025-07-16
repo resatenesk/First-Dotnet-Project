@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A43922E1-258B-B9E9-5D01-C8DBBC19C108}|ConsoleUI\\ConsoleUI.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A43922E1-258B-B9E9-5D01-C8DBBC19C108}|ConsoleUI\\ConsoleUI.csproj|solutionrelative:consoleui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\dependencyresolvers\\autofac\\autofacbusinessmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -15,8 +15,12 @@
       "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\concrete\\carmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45E8AD2D-F6CC-99C0-B6AF-489676982DA4}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\abstract\\icardal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5827C10-32D2-D72F-4639-49B48E591E74}|Business\\Business.csproj|solutionrelative:business\\validationrules\\fluentvalidation\\carvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|c:\\users\\kurtu\\desktop\\dotnet\\project\\webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D6B33C5-CEE1-20B5-A207-99CBB61F699C}|WebAPI\\WebAPI.csproj|solutionrelative:webapi\\controllers\\carscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -34,28 +38,54 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Program.cs",
-              "RelativeToolTip": "WebAPI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA5AAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "AutofacBusinessModule.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeDocumentMoniker": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "RelativeToolTip": "Business\\DependencyResolvers\\Autofac\\AutofacBusinessModule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T11:01:22.603Z",
+              "WhenOpened": "2025-07-16T11:17:09.586Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\ConsoleUI\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleUI\\Program.cs",
-              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\ConsoleUI\\Program.cs",
-              "RelativeToolTip": "ConsoleUI\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Program.cs*",
+              "RelativeToolTip": "WebAPI\\Program.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T11:00:33.601Z",
+              "WhenOpened": "2025-07-16T10:57:55.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarsController.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Controllers\\CarsController.cs",
+              "RelativeDocumentMoniker": "WebAPI\\Controllers\\CarsController.cs",
+              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\WebAPI\\Controllers\\CarsController.cs",
+              "RelativeToolTip": "WebAPI\\Controllers\\CarsController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAwwDcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:51:46.938Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarValidator.cs",
+              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
+              "RelativeDocumentMoniker": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
+              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
+              "RelativeToolTip": "Business\\ValidationRules\\FluentValidation\\CarValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T10:50:06.312Z",
               "EditorCaption": ""
             },
             {
@@ -66,22 +96,9 @@
               "RelativeDocumentMoniker": "Business\\Concrete\\CarManager.cs",
               "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Business\\Concrete\\CarManager.cs",
               "RelativeToolTip": "Business\\Concrete\\CarManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T11:00:08.192Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ICarDal.cs",
-              "DocumentMoniker": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Abstract\\ICarDal.cs",
-              "ToolTip": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\DataAccess\\Abstract\\ICarDal.cs",
-              "RelativeToolTip": "DataAccess\\Abstract\\ICarDal.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-15T10:59:44.981Z",
+              "WhenOpened": "2025-07-16T10:42:25.248Z",
               "EditorCaption": ""
             }
           ]

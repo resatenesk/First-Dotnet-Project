@@ -133,3 +133,4 @@ C:\Users\kurtu\Desktop\DOTNET\project\Entities\obj\Debug\net8.0\refint\Entities.
 C:\Users\kurtu\Desktop\DOTNET\project\Entities\obj\Debug\net8.0\Entities.pdb
 C:\Users\kurtu\Desktop\DOTNET\project\Entities\obj\Debug\net8.0\Entities.genruntimeconfig.cache
 C:\Users\kurtu\Desktop\DOTNET\project\Entities\obj\Debug\net8.0\ref\Entities.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\Entities\obj\Debug\net8.0\Entities.sourcelink.json

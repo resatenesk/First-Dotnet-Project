@@ -168,3 +168,4 @@ C:\Users\kurtu\Desktop\DOTNET\project\Business\obj\Debug\net8.0\refint\Business.
 C:\Users\kurtu\Desktop\DOTNET\project\Business\obj\Debug\net8.0\Business.pdb
 C:\Users\kurtu\Desktop\DOTNET\project\Business\obj\Debug\net8.0\Business.genruntimeconfig.cache
 C:\Users\kurtu\Desktop\DOTNET\project\Business\obj\Debug\net8.0\ref\Business.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\Business\obj\Debug\net8.0\Business.sourcelink.json

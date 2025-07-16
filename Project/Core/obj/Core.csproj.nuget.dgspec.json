@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {}
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj": {
+    "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj",
+        "projectUniqueName": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj",
         "projectName": "Core",
-        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\project\\Core\\Core.csproj",
+        "projectPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\Core.csproj",
         "packagesPath": "C:\\Users\\kurtu\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\kurtu\\Desktop\\DOTNET\\Project\\Core\\obj\\",
         "projectStyle": "PackageReference",
@@ -50,6 +50,26 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Autofac": {
+              "target": "Package",
+              "version": "[8.3.0, )"
+            },
+            "Autofac.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[10.0.0, )"
+            },
+            "Autofac.Extras.DynamicProxy": {
+              "target": "Package",
+              "version": "[7.1.0, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[12.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.5, )"
