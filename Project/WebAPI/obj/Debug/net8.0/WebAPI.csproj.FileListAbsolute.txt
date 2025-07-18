@@ -201,3 +201,14 @@ C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\obj\Debug\net8.0\WebAPI.csproj.Up2D
 C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\obj\Debug\net8.0\WebAPI.genruntimeconfig.cache
 C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\obj\Debug\net8.0\ref\WebAPI.dll
 C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\kurtu\Desktop\DOTNET\Project\WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
